@@ -1,5 +1,5 @@
 git init
-git remote add origin https://github.com/YOUR_USERNAME/chatbot-portfolio.git
+git remote add origin https://github.com/ParthPatelCa/chatbot-portfolio.git
 git add .
 git commit -m "Initial commit"
 git branch -M main
